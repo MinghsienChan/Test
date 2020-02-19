@@ -4,3 +4,5 @@ ADCDDD
 DEF 
 
 中文輸入。
+
+第一次推送, 遇到要求回應的prompt windows.
